@@ -1,22 +1,15 @@
-# Community devcontainer features
-
-[![Gitter](https://img.shields.io/gitter/room/devcontainers-contrib/community)](https://gitter.im/devcontainers-contrib/community)
-
-🐳 Extra add-in features for
-[devcontainers](https://code.visualstudio.com/docs/devcontainers/containers) and
-[GitHub Codespaces](https://github.com/features/codespaces)
-
 <div align="center">
 
-![](https://i.imgur.com/W7t3YsC.png)
+![](https://user-images.githubusercontent.com/61068799/208506402-f90b1a8b-63a0-4af5-b587-3ad8cee01138.png)
 
-**[Overview](https://github.com/devcontainers-contrib/features#readme)** |
-[User docs](https://github.com/devcontainers-contrib/features#usage) |
-[Contributing](https://github.com/devcontainers-contrib/features/blob/main/CONTRIBUTING.md)
-| [Developer wiki](https://github.com/devcontainers-contrib/features/wiki)
+<!-- prettier-ignore -->
+[Features](https://devcontainers-contrib.github.io/features/)
+| [Images](https://devcontainers-contrib.github.io/images/)
+| [Templates](https://devcontainers-contrib.github.io/templates/)
+| [@devcontainers](https://github.com/devcontainers)
 
 </div>
 
-💻 Works with
-[devcontainers](https://code.visualstudio.com/docs/devcontainers/containers) \
-☁️ Works with [GitHub Codespaces](https://github.com/features/codespaces) 
+The Community Dev Containers project aims to document, maintain, and improve on
+the official devcontainers images, features, and templates to improve the
+developer experience for end-users.
