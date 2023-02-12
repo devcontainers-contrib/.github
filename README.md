@@ -11,3 +11,6 @@ documentation content for all the cool stuff that's not covered by the official
 [@devcontainers](https://github.com/devcontainers) organization. I'll try to
 listen to feedback, but there's no guarantee that I'll be able to get to
 everything right away 🤷‍♂️.
+
+Thanks, \
+[@danielbraun89](https://github.com/danielbraun89)
