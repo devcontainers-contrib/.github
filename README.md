@@ -1,10 +1,3 @@
-# [Community Dev Containers](https://github.com/devcontainers-contrib) Charter
-
-The [Community Dev Containers](https://github.com/devcontainers-contrib) project
-is just a fun little side project 🤷 that I'm keeping up to document, maintain,
-and maybe even improve the official devcontainers images, features, and
-templates.
-
 This project is just for kicks, so let's keep things lighthearted 🎉. I don't
 have a lot of time to invest in this, so things might take a while to get done.
 And, I'm not looking to add any collaborators at this time 🙅‍♂️.
