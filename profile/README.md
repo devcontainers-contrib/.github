@@ -10,6 +10,6 @@
 
 </div>
 
-The Community Dev Containers project aims to document, maintain, and improve on
+The Dev Containers project aims to document, maintain, and improve on
 the official devcontainers images, features, and templates to improve the
 developer experience for end-users.
